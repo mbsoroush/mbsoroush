@@ -11,9 +11,9 @@
 
 <h1 align="center">MBSoroush</h1>
 
-<p align="center">
-  <b>Computer Engineer
-</p>
+<h3 align="center">
+  Computer Engineer | AI/ML Engineer | MLOps
+</h3>
 
 <!-- ==================== SOCIAL BADGES ==================== -->
 
