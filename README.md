@@ -1,12 +1,13 @@
 
-<!-- AI Banner -->
+<!-- ==================== AI BANNER ==================== -->
+
 <p align="center">
-  <img src="./assets/Neon Brain Data Transformation.png"
+  <img src="./assets/Neon%20Brain%20Data%20Transformation.png"
        alt="AI and Machine Learning banner"
        width="100%">
 </p>
 
-<!-- Name and Specialty -->
+<!-- ==================== NAME & SPECIALTY ==================== -->
 
 <h1 align="center">Mohammad Bagher Soroush</h1>
 
@@ -14,8 +15,8 @@
   <b>Data Scientist</b> | AI/ML & Deep Learning Engineer | MLOps
 </p>
 
+<!-- ==================== SOCIAL BADGES ==================== -->
 
-<!-- Social Badges -->
 <p align="center">
   <a href="YOUR_ACTUAL_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -30,14 +31,92 @@
 
 ---
 
+<!-- ==================== ABOUT ME ==================== -->
 
-## 💻 About Me
+## 👋 About Me
 
 I'm a Computer Engineer with a Bachelor's degree from Hamedan University of Technology, specializing in Software Engineering and Artificial Intelligence.
 
-Since 2022, I've developed hands-on experience in Data Science, Machine Learning, and Deep Learning through academic and client projects, with applications in Computer Vision and Natural Language Processing (NLP). Alongside these projects, I've mentored students and served as a teaching assistant for undergraduate AI and Computer Science courses.
+Since 2022, I've gained hands-on experience in Data Science, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing through academic and client projects. Alongside these projects, I've mentored students and served as a teaching assistant for undergraduate AI and Computer Science courses.
 
-Recently, I've been expanding my expertise in Large Language Models (LLMs) and MLOps through practical projects. I'm passionate about building AI solutions, solving real-world problems, and continuously learning modern AI technologies.
+Recently, I've been expanding my expertise in Large Language Models (LLMs) and MLOps through practical projects, with a focus on building AI solutions and solving real-world problems.
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,matlab,mysql,postgres,sqlite,git,github,docker,kubernetes,fastapi,tensorflow,pytorch,opencv&perline=8" alt="Technology stack icons">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow">
+</p>
+
+---
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mbsoroush&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub statistics"
+    height="180">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbsoroush&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most-used programming languages"
+    height="180">
+</p>
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+## 🚀 Projects
+
+### 📝 Natural Language Processing
+
+- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) · 2025  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
+
+### 👁️ Computer Vision
+
+- [Small Object Detection](https://github.com/mbsoroush/SmallObjectDetection) · 2025  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/small-object-detection) | [Dataset](https://www.kaggle.com/datasets/dataclusterlabs/small-vehicle-images-far-vehicle-detection)
+
+- [Object Detection for Self-Driving Cars](https://github.com/mbsoroush/ObjectDetection_for_SelfDrivingCars) · 2024  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
+
+### 🧠 Deep Learning
+
+- [Fraud Detection](https://github.com/mbsoroush/FraudDetection) · 2025  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-detection) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
+
+- [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) · Personal Project · 2024  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
+
+### 📈 Data Science & Machine Learning
+
+- [Customer Segmentation](https://github.com/mbsoroush/CustomerSegmentation) · 2023  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/customer-segmentation) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/customer-data)
+
+- [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) · 2023  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/mobilepriceprediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/mobile-price-range)
+
+- [Car Price Prediction](https://github.com/mbsoroush/CarPricePrediction) · 2022  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/car-price-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/cara-price-dataset)
+
+---
+
+<!-- ==================== TECHNICAL SKILLS ==================== -->
 
 ## 🛠️ Technical Skills
 
@@ -68,37 +147,9 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 **Tools & Platforms**
 - Git, GitHub, SQLite, MySQL, PostgreSQL, SQL Server
 
+---
 
-## 🚀 Projects
-
-### Natural Language Processing
-- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) · 2025  
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
-
-### Computer Vision
-- [Small Object Detection](https://github.com/mbsoroush/SmallObjectDetection) · 2025  
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/small-object-detection) | [Dataset](https://www.kaggle.com/datasets/dataclusterlabs/small-vehicle-images-far-vehicle-detection)
-
-- [Object Detection for Self-Driving Cars](https://github.com/mbsoroush/ObjectDetection_for_SelfDrivingCars) · 2024  
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
-
-### Deep Learning
-- [Fraud Detection](https://github.com/mbsoroush/FraudDetection) · 2025  
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-detection) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
-
-- [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) · Personal Project · 2024  
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
-
-### Data Science & Machine Learning
-- [Customer Segmentation](https://github.com/mbsoroush/CustomerSegmentation) · 2023  
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/customer-segmentation) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/customer-data)
-
-- [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) · 2023  
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/mobilepriceprediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/mobile-price-range)
-
-- [Car Price Prediction](https://github.com/mbsoroush/CarPricePrediction) · 2022  
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/car-price-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/cara-price-dataset)
-
+<!-- ==================== EXPERIENCE ==================== -->
 
 ## 💼 Experience
 
@@ -106,6 +157,10 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 - **Teaching Assistant** — University of Tehran, College of Engineering (Spring 2024 – Fall 2025)
 - **Teaching Assistant** — Hamedan University of Technology (Spring 2023 – Spring 2026)
 - **Freelance Data Scientist / AI/ML Engineer** (Spring 2023 – Present)
+
+---
+
+<!-- ==================== EDUCATION ==================== -->
 
 ## 🎓 Education
 
@@ -116,6 +171,17 @@ GPA: 17.42/20 (3.66/4)
 **High School Diploma in Mathematics and Physics**  
 National Organization for Development of Exceptional Talents (Sampad) | 2018 – 2021  
 GPA: 18.52/20 (3.80/4)
+
+---
+
+<!-- ==================== CURRENT FOCUS ==================== -->
+
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs) and Transformer Fine-tuning
+- Retrieval-Augmented Generation (RAG) and AI Agents
+- MLOps, Docker, and Kubernetes
+- Practical AI application development and deployment
 
 ---
 
