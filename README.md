@@ -54,7 +54,7 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 - **Bootcamp Mentor** — Quera (May 2026 – October 2026)
 - **Teaching Assistant** — University of Tehran (Spring 2024 – Fall 2025)
 - **Teaching Assistant** — Hamedan University of Technology (Spring 2023 – Spring 2026)
-- **Freelance Data Scientist / AI/ML Engineer** (Spring 2023 – Fall 2025)
+- **Freelance Data Scientist / AI/ML Engineer** (Spring 2023 – Present)
 
 ## 🎓 Education
 
@@ -62,7 +62,7 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 Hamedan University of Technology | 2021 – 2026  
 GPA: 17.42/20 (3.66/4)
 
-**HiGH SCHOOL DiPLOMA iN MATHEMATiCS AND PHYSiCS **  
+**High School Diploma in Mathematics and Physics**  
 National Organization for Development of Exceptional Talents (Sampad) | 2018 – 2021  
 GPA: 18.52/20 (3.80/4)
 
