@@ -97,11 +97,6 @@ GPA: 17.42/20 (3.66/4)
 National Organization for Development of Exceptional Talents (Sampad) | 2018 – 2021  
 GPA: 18.52/20 (3.80/4)
 
-## 🏆 Honors & Achievements
-
-- **4th Place**, Hamedan Province AI Competition (2023)
-- **M.Sc. in Computer Science Admission**, Bowling Green State University (2025)
-
 ---
 
 <p align="center">
