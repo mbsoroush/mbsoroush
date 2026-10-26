@@ -49,10 +49,42 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 - Git, GitHub, SQLite, MySQL, PostgreSQL, SQL Server
 
 
+## 🚀 Projects
+
+### Natural Language Processing
+- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) · Client Project · 2025  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
+
+### Computer Vision
+- [Small Object Detection](https://github.com/mbsoroush/SmallObjectDetection) · Client Project · 2025  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/small-object-detection) | [Dataset](https://www.kaggle.com/datasets/dataclusterlabs/small-vehicle-images-far-vehicle-detection)
+
+- [Object Detection for Self-Driving Cars](https://github.com/mbsoroush/ObjectDetection_for_SelfDrivingCars) · Client Project · 2024  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
+
+### Deep Learning & Computer Vision
+- [Rice Classification](https://github.com/mbsoroush/RiceClassification) · Client Project · 2024  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/rice-classification-pytorch#Model-1) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/rice-images-dataset)
+
+### Deep Learning
+- [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) · Personal Project · 2024  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
+
+### Data Science & Machine Learning
+- [Customer Segmentation](https://github.com/mbsoroush/CustomerSegmentation) · Client Project · 2023  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/customer-segmentation) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/customer-data)
+
+- [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) · Client Project · 2023  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/mobilepriceprediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/mobile-price-range)
+
+- [Car Price Prediction](https://github.com/mbsoroush/CarPricePrediction) · Personal Project · 2022  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/car-price-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/cara-price-dataset)
+
+
 ## 💼 Experience
 
 - **Bootcamp Mentor** — Quera (May 2026 – October 2026)
-- **Teaching Assistant** — University of Tehran (Spring 2024 – Fall 2025)
+- **Teaching Assistant** — University of Tehran, College of Engineering (Spring 2024 – Fall 2025)
 - **Teaching Assistant** — Hamedan University of Technology (Spring 2023 – Spring 2026)
 - **Freelance Data Scientist / AI/ML Engineer** (Spring 2023 – Present)
 
