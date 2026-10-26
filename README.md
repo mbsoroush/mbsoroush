@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mohammad Bagher Soroush 👋</h1>
+<h1 align="center">Mohammad Bagher Soroush</h1>
 
 <h3 align="center">Data Scientist | AI/ML Engineer | MLOps</h3>
 
