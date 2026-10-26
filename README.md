@@ -33,48 +33,13 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 
-## 👋 About Me
+## 💻 About Me
 
 I'm a Computer Engineer with a Bachelor's degree from Hamedan University of Technology, specializing in Software Engineering and Artificial Intelligence.
 
 Since 2022, I've gained hands-on experience in Data Science, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing through academic and client projects. Alongside these projects, I've mentored students and served as a teaching assistant for undergraduate AI and Computer Science courses.
 
 Recently, I've been expanding my expertise in Large Language Models (LLMs) and MLOps through practical projects, with a focus on building AI solutions and solving real-world problems.
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,matlab,mysql,postgres,sqlite,git,github,docker,kubernetes,fastapi,tensorflow,pytorch,opencv&perline=8" alt="Technology stack icons">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow">
-</p>
-
----
-
-<!-- ==================== GITHUB STATISTICS ==================== -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mbsoroush&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub statistics"
-    height="180">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbsoroush&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most-used programming languages"
-    height="180">
-</p>
 
 ---
 
@@ -174,14 +139,31 @@ GPA: 18.52/20 (3.80/4)
 
 ---
 
-<!-- ==================== CURRENT FOCUS ==================== -->
 
-## 🌱 Currently Learning
+---
 
-- Large Language Models (LLMs) and Transformer Fine-tuning
-- Retrieval-Augmented Generation (RAG) and AI Agents
-- MLOps, Docker, and Kubernetes
-- Practical AI application development and deployment
+<!-- ==================== TECH STACK ==================== -->
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,matlab,mysql,postgres,sqlite,git,github,docker,kubernetes,fastapi,tensorflow,pytorch,opencv&perline=8" alt="Technology stack icons">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow">
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
+
 
 ---
 
