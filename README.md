@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 💻 About Me
 
 I'm a Computer Engineer with a Bachelor's degree from Hamedan University of Technology, specializing in Software Engineering and Artificial Intelligence.
 
