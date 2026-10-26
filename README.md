@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/github-banner.png" width="100%" alt="AI and Machine Learning banner">
+</p>
 <h1 align="center">Mohammad Bagher Soroush</h1>
 
 <h3 align="center">Data Scientist | AI/ML Engineer | MLOps</h3>
