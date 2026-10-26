@@ -6,11 +6,16 @@
   />
 </p>
 
+
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="AI banner">
+</p>
+
 <h1 align="center">Mohammad Bagher Soroush</h1>
 
-<h3 align="center">
-  Data Scientist | AI/ML & Deep Learning Engineer | MLOps
-</h3>
+<p align="center">
+  <strong>Data Scientist | AI/ML & Deep Learning Engineer | MLOps</strong>
+</p>
 
 
 
