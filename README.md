@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner.png" width="100%" alt="AI and Machine Learning banner">
+  <img src="./Neon Neural Network Horizon.png" width="100%" alt="AI and Machine Learning banner">
 </p>
 <h1 align="center">Mohammad Bagher Soroush</h1>
 
