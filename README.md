@@ -1,24 +1,19 @@
+
+<!-- AI Banner -->
 <p align="center">
-  <img
-    src="./assets/Neon Brain Data Transformation.png"
-    alt="AI and Machine Learning banner"
-    width="100%"
-  />
+  <img src="./assets/Neon Brain Data Transformation.png"
+       alt="AI and Machine Learning banner"
+       width="100%">
 </p>
 
-
-<p align="center">
-  <img src="./github-banner.png" width="100%" alt="AI banner">
-</p>
-
+<!-- Name and Specialty -->
 <h1 align="center">Mohammad Bagher Soroush</h1>
 
-<p align="center">
-  <strong>Data Scientist | AI/ML & Deep Learning Engineer | MLOps</strong>
-</p>
+<h3 align="center">
+  Data Scientist | AI/ML & Deep Learning Engineer | MLOps
+</h3>
 
-
-
+<!-- Social Badges -->
 <p align="center">
   <a href="YOUR_ACTUAL_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -32,6 +27,7 @@
 </p>
 
 ---
+
 
 ## 💻 About Me
 
