@@ -12,7 +12,7 @@
 <h1 align="center">MBSoroush</h1>
 
 <h3 align="center">
-  Computer Engineer | AI/ML Engineer | MLOps
+  Computer Engineer💻
 </h3>
 
 <!-- ==================== SOCIAL BADGES ==================== -->
