@@ -52,7 +52,7 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 - [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) · 2025  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
 
-### 🤖 Computer Vision
+### 👁️ Computer Vision
 
 - [Small Object Detection](https://github.com/mbsoroush/SmallObjectDetection) · 2025  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/small-object-detection) | [Dataset](https://www.kaggle.com/datasets/dataclusterlabs/small-vehicle-images-far-vehicle-detection)
@@ -83,33 +83,34 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 
 <!-- ==================== TECHNICAL SKILLS ==================== -->
 
+
 ## 🛠️ Technical Skills
 
-**Programming**
+### 💻 Programming
 - Python, SQL, Java, C++, C, MATLAB
 
-**Libraries & Frameworks**
+### 📚 Libraries & Frameworks
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, PyTorch, TensorFlow, Keras, OpenCV, Detectron2, Hugging Face Transformers, LangChain
 
-**Data Science**
+### 📊 Data Science
 - Data Wrangling, Exploratory Data Analysis (EDA), Data Cleaning and Preprocessing, Data Visualization, Feature Engineering, Statistical Analysis, Hypothesis Testing
 
-**Machine Learning**
+### 🤖 Machine Learning
 - Supervised, Semi-Supervised, Unsupervised and Reinforcement Learning, Feature Selection, Model Evaluation, Hyperparameter Tuning
 
-**Deep Learning**
+### 🧠 Deep Learning
 - MLPs, CNNs, RNNs, LSTMs, Autoencoders, GANs, Self-Organizing Maps (SOMs), Boltzmann Machines, Transfer Learning, Fine-tuning
 
-**Computer Vision**
+### 👁️ Computer Vision
 - Image Classification, Object Detection (YOLO, SSD, Faster R-CNN), Image Segmentation (U-Net, Mask R-CNN), Image Augmentation
 
-**NLP & LLMs**
+### 💬 NLP & LLMs
 - Text Preprocessing and Classification, Transformer Fine-tuning, Parameter-Efficient Fine-Tuning (PEFT), Prompt Engineering, LLM API Integration, Retrieval-Augmented Generation (RAG), AI Agents
 
-**MLOps**
+### ⚙️ MLOps
 - Docker, Kubernetes, FastAPI, Airflow, MLflow
 
-**Tools & Platforms**
+### 🔧 Tools & Platforms
 - Git, GitHub, SQLite, MySQL, PostgreSQL, SQL Server
 
 ---
