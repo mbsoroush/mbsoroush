@@ -9,10 +9,10 @@
 
 <!-- ==================== NAME & SPECIALTY ==================== -->
 
-<h1 align="center">Mohammad Bagher Soroush</h1>
+<h1 align="center">MBSoroush</h1>
 
 <p align="center">
-  <b>Data Scientist</b> | AI/ML & Deep Learning Engineer | MLOps
+  <b>Computer Engineer
 </p>
 
 <!-- ==================== SOCIAL BADGES ==================== -->
