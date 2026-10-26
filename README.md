@@ -86,9 +86,6 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming
-- Python, SQL, Java, C++, C, MATLAB
-
 ### 📚 Libraries & Frameworks
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, PyTorch, TensorFlow, Keras, OpenCV, Detectron2, Hugging Face Transformers, LangChain
 
