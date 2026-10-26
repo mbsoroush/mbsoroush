@@ -15,40 +15,39 @@
 
 I'm a Computer Engineer with a Bachelor's degree from Hamedan University of Technology, specializing in Software Engineering and Artificial Intelligence.
 
-Since 2022, I've developed hands-on experience in Data Science, Machine Learning, and Deep Learning through academic and client projects, with applications in Computer Vision and Natural Language Processing (NLP).
-
-Alongside these projects, I've mentored students and served as a teaching assistant for undergraduate AI and Computer Science courses.
+Since 2022, I've developed hands-on experience in Data Science, Machine Learning, and Deep Learning through academic and client projects, with applications in Computer Vision and Natural Language Processing (NLP). Alongside these projects, I've mentored students and served as a teaching assistant for undergraduate AI and Computer Science courses.
 
 Recently, I've been expanding my expertise in Large Language Models (LLMs) and MLOps through practical projects. I'm passionate about building AI solutions, solving real-world problems, and continuously learning modern AI technologies.
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+**Programming**
 - Python, SQL, Java, C++, C, MATLAB
 
-**Data Science & Machine Learning**
-- Data Analysis, EDA, Data Preprocessing, Feature Engineering
-- Supervised, Semi-Supervised, and Unsupervised Learning
-- Model Evaluation, Feature Selection, Hyperparameter Tuning
+**Libraries & Frameworks**
+- Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, PyTorch, TensorFlow, Keras, OpenCV, Detectron2, Hugging Face Transformers, LangChain
+
+**Data Science**
+- Data Wrangling, Exploratory Data Analysis (EDA), Data Cleaning and Preprocessing, Data Visualization, Feature Engineering, Statistical Analysis, Hypothesis Testing
+
+**Machine Learning**
+- Supervised, Semi-Supervised, Unsupervised and Reinforcement Learning, Feature Selection, Model Evaluation, Hyperparameter Tuning
 
 **Deep Learning**
-- PyTorch, TensorFlow, Keras
-- CNNs, RNNs, LSTMs, Autoencoders, GANs
-- Transfer Learning and Fine-tuning
+- MLPs, CNNs, RNNs, LSTMs, Autoencoders, GANs, Self-Organizing Maps (SOMs), Boltzmann Machines, Transfer Learning, Fine-tuning
 
 **Computer Vision**
-- Image Classification, Object Detection, Image Segmentation
-- OpenCV, YOLO, SSD, Faster R-CNN, Detectron2
+- Image Classification, Object Detection (YOLO, SSD, Faster R-CNN), Image Segmentation (U-Net, Mask R-CNN), Image Augmentation
 
 **NLP & LLMs**
-- Text Classification, Transformer Fine-tuning, PEFT
-- Prompt Engineering, RAG, LLM API Integration, AI Agents
-- Hugging Face Transformers, LangChain
+- Text Preprocessing and Classification, Transformer Fine-tuning, Parameter-Efficient Fine-Tuning (PEFT), Prompt Engineering, LLM API Integration, Retrieval-Augmented Generation (RAG), AI Agents
 
-**MLOps & Tools**
+**MLOps**
 - Docker, Kubernetes, FastAPI, Airflow, MLflow
+
+**Tools & Platforms**
 - Git, GitHub, SQLite, MySQL, PostgreSQL, SQL Server
-- NumPy, Pandas, Matplotlib, Seaborn, scikit-learn
+
 
 ## 💼 Experience
 
