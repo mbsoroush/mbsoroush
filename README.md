@@ -62,10 +62,6 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 - [Object Detection for Self-Driving Cars](https://github.com/mbsoroush/ObjectDetection_for_SelfDrivingCars) · 2024  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
 
-### Deep Learning & Computer Vision
-- [Rice Classification](https://github.com/mbsoroush/RiceClassification) · 2024  
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/rice-classification-pytorch#Model-1) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/rice-images-dataset)
-
 ### Deep Learning
 - [Fraud Detection](https://github.com/mbsoroush/FraudDetection) · 2025  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-detection) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
