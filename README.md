@@ -52,32 +52,35 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 ## 🚀 Projects
 
 ### Natural Language Processing
-- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) · Client Project · 2025  
+- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) · 2025  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
 
 ### Computer Vision
-- [Small Object Detection](https://github.com/mbsoroush/SmallObjectDetection) · Client Project · 2025  
+- [Small Object Detection](https://github.com/mbsoroush/SmallObjectDetection) · 2025  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/small-object-detection) | [Dataset](https://www.kaggle.com/datasets/dataclusterlabs/small-vehicle-images-far-vehicle-detection)
 
-- [Object Detection for Self-Driving Cars](https://github.com/mbsoroush/ObjectDetection_for_SelfDrivingCars) · Client Project · 2024  
+- [Object Detection for Self-Driving Cars](https://github.com/mbsoroush/ObjectDetection_for_SelfDrivingCars) · 2024  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
 
 ### Deep Learning & Computer Vision
-- [Rice Classification](https://github.com/mbsoroush/RiceClassification) · Client Project · 2024  
+- [Rice Classification](https://github.com/mbsoroush/RiceClassification) · 2024  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/rice-classification-pytorch#Model-1) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/rice-images-dataset)
 
 ### Deep Learning
+- [Fraud Detection](https://github.com/mbsoroush/FraudDetection) · 2025  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-detection) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
+
 - [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) · Personal Project · 2024  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
 
 ### Data Science & Machine Learning
-- [Customer Segmentation](https://github.com/mbsoroush/CustomerSegmentation) · Client Project · 2023  
+- [Customer Segmentation](https://github.com/mbsoroush/CustomerSegmentation) · 2023  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/customer-segmentation) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/customer-data)
 
-- [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) · Client Project · 2023  
+- [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) · 2023  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/mobilepriceprediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/mobile-price-range)
 
-- [Car Price Prediction](https://github.com/mbsoroush/CarPricePrediction) · Personal Project · 2022  
+- [Car Price Prediction](https://github.com/mbsoroush/CarPricePrediction) · 2022  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/car-price-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/cara-price-dataset)
 
 
