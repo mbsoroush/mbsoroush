@@ -11,9 +11,7 @@
 
 <h1 align="center">MBSoroush</h1>
 
-<h3 align="center">
-  💻 Computer Engineer
-</h3>
+<h3 align="center">Computer Engineer 💻</h3>
 
 <!-- ==================== SOCIAL BADGES ==================== -->
 
