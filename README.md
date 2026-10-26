@@ -7,11 +7,13 @@
 </p>
 
 <!-- Name and Specialty -->
+
 <h1 align="center">Mohammad Bagher Soroush</h1>
 
-<h3 align="center">
-  Data Scientist | AI/ML & Deep Learning Engineer | MLOps
-</h3>
+<p align="center">
+  <b>Data Scientist</b> | AI/ML & Deep Learning Engineer | MLOps
+</p>
+
 
 <!-- Social Badges -->
 <p align="center">
