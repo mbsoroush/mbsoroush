@@ -33,7 +33,7 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 
-## 💻 About Me
+## 👨‍💻 About Me
 
 I'm a Computer Engineer with a Bachelor's degree from Hamedan University of Technology, specializing in Software Engineering and Artificial Intelligence.
 
@@ -45,14 +45,14 @@ Recently, I've been expanding my expertise in Large Language Models (LLMs) and M
 
 <!-- ==================== PROJECTS ==================== -->
 
-## 🚀 Projects
+## 📂 Projects
 
-### 📝 Natural Language Processing
+### 💬 Natural Language Processing
 
 - [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) · 2025  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
 
-### 👁️ Computer Vision
+### 🤖 Computer Vision
 
 - [Small Object Detection](https://github.com/mbsoroush/SmallObjectDetection) · 2025  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/small-object-detection) | [Dataset](https://www.kaggle.com/datasets/dataclusterlabs/small-vehicle-images-far-vehicle-detection)
@@ -164,9 +164,3 @@ GPA: 18.52/20 (3.80/4)
   Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
 
-
----
-
-<p align="center">
-  Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
