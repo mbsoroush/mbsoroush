@@ -10,9 +10,15 @@
 <h3 align="center">Data Scientist | AI/ML Engineer | MLOps</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mbsoroush/">LinkedIn</a> •
-  <a href="https://www.kaggle.com/mbsoroush">Kaggle</a> •
-  <a href="mailto:mbsoroush2003@gmail.com">Email</a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.kaggle.com/mbsoroush">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="mailto:mbsoroush2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
