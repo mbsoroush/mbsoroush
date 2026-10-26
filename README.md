@@ -5,9 +5,13 @@
     width="100%"
   />
 </p>
+
 <h1 align="center">Mohammad Bagher Soroush</h1>
 
-<h3 align="center">Data Scientist | AI/ML Engineer | MLOps</h3>
+<h3 align="center">
+  Data Scientist | AI/ML & Deep Learning Engineer | MLOps
+</h3>
+
 
 
 <p align="center">
