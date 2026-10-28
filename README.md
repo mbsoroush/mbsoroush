@@ -135,7 +135,7 @@ technologies, and collaborating with others on impactful projects.
 ## 💼 Experience
 
 - **Bootcamp Mentor** — Quera (May 2026 – October 2026)
-- **Teaching Assistant** — University of Tehran, College of Engineering (Spring 2024 – Fall 2025)
+- **Teaching Assistant** — University of Tehran -- College of Engineering & College of Farabi (Spring 2024 – Fall 2025)
 - **Teaching Assistant** — Hamedan University of Technology (Spring 2023 – Spring 2026)
 - **Freelance Data Scientist / AI/ML Engineer** (Spring 2023 – Present)
 
