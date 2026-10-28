@@ -33,11 +33,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Engineer with a Bachelor's degree from Hamedan University of Technology, specializing in Software Engineering and Artificial Intelligence.
+I am a Computer Engineer with a Bachelor's degree, specializing in Software Engineering and Artificial Intelligence at Hamedan University of Technology. Since 2022, I have developed hands-on experience in Data Science, Machine Learning, and Deep Learning through academic and client projects, with applications in Computer Vision and Natural Language Processing (NLP). Alongside these projects, I have mentored students
+and served as a teaching assistant for multiple courses over several academic years.
 
-Since 2022, I've gained hands-on experience in Data Science, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing through academic and client projects. Alongside these projects, I've mentored students and served as a teaching assistant for undergraduate AI and Computer Science courses.
+Recently, I've been expanding my expertise in Large Language Models (LLMs) and MLOps through hands-on projects focused on developing AI applications, deploying and managing machine learning systems.
 
-Recently, I've been expanding my expertise in Large Language Models (LLMs) and MLOps through practical projects, with a focus on building AI solutions and solving real-world problems.
+I'm passionate about solving real-world problems, continuously learning modern AI
+technologies, and collaborating with others on impactful projects.
 
 ---
 
