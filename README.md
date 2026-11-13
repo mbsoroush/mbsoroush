@@ -72,7 +72,7 @@ technologies, and collaborating with others on impactful projects.
 - [Fraud Detection](https://github.com/mbsoroush/FraudDetection) · 2025  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-detection) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
 
-- [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) · Personal Project · 2024  
+- [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) · 2024  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
 
 ### 📈 Data Science & Machine Learning
