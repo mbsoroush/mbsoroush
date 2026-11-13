@@ -109,8 +109,9 @@ technologies, and collaborating with others on impactful projects.
 - Image Classification, Object Detection (YOLO, SSD, Faster R-CNN), Image Segmentation (U-Net, Mask R-CNN), Image Augmentation
 
 ### 💬 NLP & LLMs
-- Text Preprocessing and Classification, Transformer Fine-tuning, Parameter-Efficient Fine-Tuning (PEFT), Prompt Engineering, LLM API Integration, Retrieval-Augmented Generation (RAG), AI Agents
-
+- Text Preprocessing and Classification, Transformer Fine-tuning, Parameter-Efficient Fine-Tuning (PEFT),Prompt Engineering, LLM API Integration, Structured Outputs, Retrieval‑Augmented Generation (RAG), AI
+Agents, LangChain, LangGraph, Text‑to‑SQL, LLM Guardrails and Safety, LLM Reliability, LLM
+Observability, Human‑in‑the‑Loop
 ### ⚙️ MLOps
 - Docker, Kubernetes, FastAPI, Airflow, MLflow
 
