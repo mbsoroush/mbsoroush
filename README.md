@@ -47,6 +47,10 @@ technologies, and collaborating with others on impactful projects.
 
 ## 📂 Projects
 
+### 🤖 Large Language Models
+- [Data Analysis Chat Assistant](https://github.com/mbsoroush/DataAnalysisChatAssistant) · 2026  
+
+
 ### 💬 Natural Language Processing
 
 - [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) · 2025  
@@ -59,6 +63,9 @@ technologies, and collaborating with others on impactful projects.
 
 - [Object Detection for Self-Driving Cars](https://github.com/mbsoroush/ObjectDetection_for_SelfDrivingCars) · 2024  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
+
+- [Rice Classification](https://github.com/mbsoroush/RiceClassification) · 2024  
+  [Kaggle Notebook1](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Kaggle Notebook2](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
 
 ### 🧠 Deep Learning
 
