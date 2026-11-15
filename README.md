@@ -48,7 +48,7 @@ technologies, and collaborating with others on impactful projects.
 ## 📂 Projects
 
 ### 🤖 Large Language Models
-- [Data Analysis Chat Assistant](https://github.com/mbsoroush/DataAnalysisChatAssistant) .
+- [Data Analysis Chat Assistant](https://github.com/mbsoroush/DataAnalysisChatAssistant) . LLM agent for BigQuery analytics
 
 
 ### 💬 Natural Language Processing
