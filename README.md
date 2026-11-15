@@ -48,13 +48,13 @@ technologies, and collaborating with others on impactful projects.
 ## 📂 Projects
 
 ### 🤖 Large Language Models
-- [Data Analysis Chat Assistant](https://github.com/mbsoroush/DataAnalysisChatAssistant) . LLM agent for BigQuery analytics
+- [Data Analysis Chat Assistant](https://github.com/mbsoroush/DataAnalysisChatAssistant) 
 
 
 ### 💬 Natural Language Processing
 
-- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) . Persian Emotion Classifier 
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
+- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) 
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
 
 ### 👁️ Computer Vision
 
