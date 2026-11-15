@@ -65,9 +65,11 @@ technologies, and collaborating with others on impactful projects.
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
 
 - [Rice Classification](https://github.com/mbsoroush/RiceClassification) · 2024  
-  [Kaggle Notebook1](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Kaggle Notebook2](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
+  [Kaggle Notebook1](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Kaggle Notebook2](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
 
 ### 🧠 Deep Learning
+
+
 
 - [Fraud Detection](https://github.com/mbsoroush/FraudDetection) · 2025  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-detection) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
