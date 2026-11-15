@@ -53,7 +53,7 @@ technologies, and collaborating with others on impactful projects.
 
 ### 💬 Natural Language Processing
 
-- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) . Persian Emotion Classifier – Fine-tuned ParsBERT model + Streamlit app for real-time Persian emotion detection
+- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) . Persian Emotion Classifier 
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
 
 ### 👁️ Computer Vision
