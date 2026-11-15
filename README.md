@@ -48,44 +48,43 @@ technologies, and collaborating with others on impactful projects.
 ## 📂 Projects
 
 ### 🤖 Large Language Models
-- [Data Analysis Chat Assistant](https://github.com/mbsoroush/DataAnalysisChatAssistant) · 2026  
+- [Data Analysis Chat Assistant](https://github.com/mbsoroush/DataAnalysisChatAssistant) 
 
 
 ### 💬 Natural Language Processing
 
-- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) · 2025  
+- [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) 
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
 
 ### 👁️ Computer Vision
 
-- [Small Object Detection](https://github.com/mbsoroush/SmallObjectDetection) · 2025  
-  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/small-object-detection) | [Dataset](https://www.kaggle.com/datasets/dataclusterlabs/small-vehicle-images-far-vehicle-detection)
-
-- [Object Detection for Self-Driving Cars](https://github.com/mbsoroush/ObjectDetection_for_SelfDrivingCars) · 2024  
+- [Object Detection for Self-Driving Cars](https://github.com/mbsoroush/ObjectDetection_for_SelfDrivingCars) 
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
 
-- [Rice Classification](https://github.com/mbsoroush/RiceClassification) · 2024  
-  [Kaggle Notebook1](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Kaggle Notebook2](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
+- [Rice Classification](https://github.com/mbsoroush/RiceClassification) 
+  [Kaggle Notebook 1](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Kaggle Notebook 2](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
+
+- [Small Object Detection](https://github.com/mbsoroush/SmallObjectDetection) 
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/small-object-detection) | [Dataset](https://www.kaggle.com/datasets/dataclusterlabs/small-vehicle-images-far-vehicle-detection)
+
 
 ### 🧠 Deep Learning
 
-
-
-- [Fraud Detection](https://github.com/mbsoroush/FraudDetection) · 2025  
+- [Fraud Detection](https://github.com/mbsoroush/FraudDetection) 
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-detection) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
 
-- [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) · 2024  
+- [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) 
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
 
 ### 📈 Data Science & Machine Learning
 
-- [Customer Segmentation](https://github.com/mbsoroush/CustomerSegmentation) · 2023  
+- [Customer Segmentation](https://github.com/mbsoroush/CustomerSegmentation) 
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/customer-segmentation) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/customer-data)
 
-- [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) · 2023  
+- [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) 
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/mobilepriceprediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/mobile-price-range)
 
-- [Personal Loan Classification in Banking](https://github.com/mbsoroush/PersonalLoanClassification-in-Banking) · 2023  
+- [Personal Loan Classification in Banking](https://github.com/mbsoroush/PersonalLoanClassification-in-Banking) 
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/personal-loan-classification-in-banking) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/personal-loan-dataset)
 
 - [Car Price Prediction](https://github.com/mbsoroush/CarPricePrediction) · 2022  
