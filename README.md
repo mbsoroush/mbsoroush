@@ -83,6 +83,9 @@ technologies, and collaborating with others on impactful projects.
 - [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) · 2023  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/mobilepriceprediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/mobile-price-range)
 
+- [Personal Loan Classification in Banking](https://github.com/mbsoroush/PersonalLoanClassification-in-Banking) · 2023  
+  [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/personal-loan-classification-in-banking) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/personal-loan-dataset)
+
 - [Car Price Prediction](https://github.com/mbsoroush/CarPricePrediction) · 2022  
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/car-price-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/cara-price-dataset)
 
