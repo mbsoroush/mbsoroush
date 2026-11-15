@@ -62,7 +62,7 @@ technologies, and collaborating with others on impactful projects.
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
 
 - [Rice Classification](https://github.com/mbsoroush/RiceClassification) 
-  [Kaggle Notebook 1](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Kaggle Notebook 2](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
+  [Kaggle Notebook1](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Kaggle Notebook2](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
 
 - [Small Object Detection](https://github.com/mbsoroush/SmallObjectDetection) 
   [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/small-object-detection) | [Dataset](https://www.kaggle.com/datasets/dataclusterlabs/small-vehicle-images-far-vehicle-detection)
