@@ -58,17 +58,17 @@ technologies, and collaborating with others on impactful projects.
 
 ### 👁️ Computer Vision
 
-- [Object Detection for Self-Driving Cars](https://github.com/mbsoroush/ObjectDetection_for_SelfDrivingCars) .
-  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
+- [Real-time Object Detection for Self-Driving Cars](https://github.com/mbsoroush/RealTimeObjectDetectionForSelfDrivingCars) .
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/real-time-object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
 
 - [Rice Variety Classification](https://github.com/mbsoroush/RiceVarietyClassification) .
-  - [Kaggle Notebook 1](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Kaggle Notebook 2](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
+  - [Kaggle Notebook 1](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Kaggle Notebook 2](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/rice-images-dataset)
 
 
 ### 🧠 Deep Learning
 
-- [Fraud Detection](https://github.com/mbsoroush/FraudDetection) .
-  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-detection) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
+- [Fraud Screening | Self-Organizing Maps](https://github.com/mbsoroush/FraudScreening) .
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-screening-self-organizing-maps) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
 
 - [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) .
   - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
