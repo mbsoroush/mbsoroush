@@ -95,7 +95,7 @@ technologies, and collaborating with others on impactful projects.
 <!-- ==================== TECHNICAL SKILLS ==================== -->
 
 
-## 🛠️ Technical Skills
+## 🖥️ Technical Skills
 
 ### 📚 Libraries & Frameworks
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, PyTorch, TensorFlow, Keras, OpenCV, Detectron2, Hugging Face Transformers, LangChain
