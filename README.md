@@ -126,7 +126,7 @@ technologies, and collaborating with others on impactful projects.
 
 <!-- ==================== TECH STACK ==================== -->
 
-## 💻 Tech Stack
+## 🖥️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,matlab,mysql,postgres,sqlite,git,github,docker,kubernetes,fastapi,tensorflow,pytorch,opencv&perline=8" alt="Technology stack icons">
