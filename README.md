@@ -169,6 +169,6 @@ GPA: 18.52/20 (3.80/4)
 ---
 
 <p align="center">
-  Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+  Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
 </p>
 
