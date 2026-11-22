@@ -94,7 +94,7 @@ technologies, and collaborating with others on impactful projects.
 
 <!-- ==================== TECHNICAL SKILLS ==================== -->
 
-## 🖥️ Skills
+## 🦾 Skills
 
 ### 💻 Programming
 - Python, SQL, Java, C++, C, MATLAB
