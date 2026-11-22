@@ -94,11 +94,13 @@ technologies, and collaborating with others on impactful projects.
 
 <!-- ==================== TECHNICAL SKILLS ==================== -->
 
+## 🖥️ Skills
 
-## 🖥️ Technical Skills
+### 💻 Programming
+- Python, SQL, Java, C++, C, MATLAB
 
-### 📚 Libraries & Frameworks
-- Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, PyTorch, TensorFlow, Keras, OpenCV, Detectron2, Hugging Face Transformers, LangChain
+### 🔧 Technologies
+- PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers, Pandas, NumPy, Matplotlib, Seaborn, Plotly, OpenCV, Detectron2, Django, Git, GitHub, SQLite, MySQL, PostgreSQL, SQL Server
 
 ### 📊 Data Science
 - Data Wrangling, Exploratory Data Analysis (EDA), Data Cleaning and Preprocessing, Data Visualization, Feature Engineering, Statistical Analysis, Hypothesis Testing
@@ -109,18 +111,17 @@ technologies, and collaborating with others on impactful projects.
 ### 🧠 Deep Learning
 - MLPs, CNNs, RNNs, LSTMs, Autoencoders, GANs, Self-Organizing Maps (SOMs), Boltzmann Machines, Transfer Learning, Fine-tuning
 
+### ⚙️ MLOps
+- Docker, GitHub Actions (CI/CD), Unit Testing, Cloud Deployment, Kubernetes, FastAPI, Airflow, MLflow
+
+### 🪄 LLMs
+- Prompt Engineering, LLM API Integration, Structured Outputs, Retrieval-Augmented Generation (RAG), AI Agents, LangChain, LangGraph, Text-to-SQL, LLM Guardrails and Safety, LLM Reliability, LLM Observability, Human-in-the-Loop
+
+### 💬 NLP
+- Text Preprocessing and Classification, Transformer Fine-tuning, Parameter-Efficient Fine-Tuning (PEFT)
+
 ### 👁️ Computer Vision
 - Image Classification, Object Detection (YOLO, SSD, Faster R-CNN), Image Segmentation (U-Net, Mask R-CNN), Image Augmentation
-
-### 💬 NLP & LLMs
-- Text Preprocessing and Classification, Transformer Fine-tuning, Parameter-Efficient Fine-Tuning (PEFT), Prompt Engineering, LLM API Integration, Structured Outputs, Retrieval‑Augmented Generation (RAG), AI Agents, LangChain, LangGraph, Text‑to‑SQL, LLM Guardrails and Safety, LLM Reliability, LLM
-Observability, Human‑in‑the‑Loop
-### ⚙️ MLOps
-- Docker, Kubernetes, FastAPI, Airflow, MLflow
-
-### 🔧 Tools & Platforms
-- Git, GitHub, SQLite, MySQL, PostgreSQL, SQL Server
-
 ---
 
 <!-- ==================== TECH STACK ==================== -->
