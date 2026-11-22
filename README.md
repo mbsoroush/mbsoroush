@@ -47,35 +47,12 @@ technologies, and collaborating with others on impactful projects.
 
 ## 📂 Projects
 
-### 📈 Data Science & Machine Learning
+### 🤖 Large Language Models
+- [Data Analysis Chat Assistant](https://github.com/mbsoroush/DataAnalysisChatAssistant)
 
-- [Customer Segmentation](https://github.com/mbsoroush/CustomerSegmentation) .
-  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/customer-segmentation) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/customer-data)
-
-- [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) .
-  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/mobilepriceprediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/mobile-price-range)
-
-- [Personal Loan Classification in Banking](https://github.com/mbsoroush/PersonalLoanClassification-in-Banking) .
-  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/personal-loan-classification-in-banking) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/personal-loan-dataset)
-
-- [Car Price Prediction](https://github.com/mbsoroush/CarPricePrediction) ·
-  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/car-price-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/cara-price-dataset)
-
-### 🧠 Deep Learning
-
-- [Fraud Screening | Self-Organizing Maps](https://github.com/mbsoroush/FraudScreening) .
-  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-screening-self-organizing-maps) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
-
-- [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) .
-  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
 
 ### 🛠️ Software Engineering & MLOps
 - [Apartment Management System](https://github.com/mbsoroush/ApartmentManagementSystem)
-
-
-
-### 🤖 Large Language Models
-- [Data Analysis Chat Assistant](https://github.com/mbsoroush/DataAnalysisChatAssistant) 
 
 
 ### 💬 Natural Language Processing
@@ -90,6 +67,28 @@ technologies, and collaborating with others on impactful projects.
 
 - [Rice Variety Classification](https://github.com/mbsoroush/RiceVarietyClassification) .
   - [Kaggle Notebook 1](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Kaggle Notebook 2](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/rice-images-dataset)
+
+### 🧠 Deep Learning
+
+- [Fraud Screening | Self-Organizing Maps](https://github.com/mbsoroush/FraudScreening) .
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/fraud-screening-self-organizing-maps) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/credit-cards-applications)
+
+- [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) .
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
+
+### 📈 Data Science & Machine Learning
+
+- [Customer Segmentation](https://github.com/mbsoroush/CustomerSegmentation) .
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/customer-segmentation) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/customer-data)
+
+- [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) .
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/mobilepriceprediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/mobile-price-range)
+
+- [Personal Loan Classification in Banking](https://github.com/mbsoroush/PersonalLoanClassification-in-Banking) .
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/personal-loan-classification-in-banking) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/personal-loan-dataset)
+
+- [Car Price Prediction](https://github.com/mbsoroush/CarPricePrediction) ·
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/car-price-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/cara-price-dataset)
 ---
 
 <!-- ==================== TECHNICAL SKILLS ==================== -->
