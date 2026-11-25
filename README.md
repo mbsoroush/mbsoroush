@@ -48,7 +48,7 @@ technologies, and collaborating with others on impactful projects.
 ## 📂 Projects
 
 ### 🤖 Large Language Models
-- [Data Analysis Chat Assistant](https://github.com/mbsoroush/DataAnalysisChatAssistant)
+- [Data Analysis Chat Assistant](https://github.com/mbsoroush/Data-Analysis-Chat-Assistant)
 
 
 ### 🛠️ Software Engineering & MLOps
@@ -64,7 +64,7 @@ technologies, and collaborating with others on impactful projects.
 
 ### 👁️ Computer Vision
 
-- [Real-time Object Detection for Self-Driving Cars](https://github.com/mbsoroush/RealTimeObjectDetectionForSelfDrivingCars) .
+- [Real-time Object Detection for Self-Driving Cars](https://github.com/mbsoroush/Real-Time-Object-Detection-for-Self-Driving-Cars) .
   - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/real-time-object-detection-for-self-driving-cars) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/car-camera-photos)
 
 - [Rice Variety Classification](https://github.com/mbsoroush/RiceVarietyClassification) .
