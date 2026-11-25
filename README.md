@@ -52,6 +52,8 @@ technologies, and collaborating with others on impactful projects.
 
 
 ### 🛠️ Software Engineering & MLOps
+- [Airbnb Ops Platform](https://github.com/mbsoroush/Airbnb-Ops-Platform)
+
 - [Apartment Management System](https://github.com/mbsoroush/ApartmentManagementSystem)
 
 
