@@ -48,11 +48,15 @@ technologies, and collaborating with others on impactful projects.
 ## 📂 Projects
 
 ### 🤖 Large Language Models
+
 - [Data Analysis Chat Assistant](https://github.com/mbsoroush/Data-Analysis-Chat-Assistant)
 
 
 ### 🛠️ Software Engineering & MLOps
-- [Airbnb Ops Platform](https://github.com/mbsoroush/Airbnb-Ops-Platform)
+
+- [Olist Risk MLOps Platform](https://github.com/mbsoroush/Olist-Risk-MLOps-Platform)
+
+- [Airbnb MLOps Platform](https://github.com/mbsoroush/Airbnb-MLOps-Platform)
 
 - [Apartment Management System](https://github.com/mbsoroush/ApartmentManagementSystem)
 
@@ -86,11 +90,11 @@ technologies, and collaborating with others on impactful projects.
 - [Mobile Price Prediction](https://github.com/mbsoroush/MobilePricePrediction) .
   - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/mobilepriceprediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/mobile-price-range)
 
-- [Personal Loan Classification in Banking](https://github.com/mbsoroush/PersonalLoanClassification-in-Banking) .
-  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/personal-loan-classification-in-banking) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/personal-loan-dataset)
-
 - [Car Price Prediction](https://github.com/mbsoroush/CarPricePrediction) ·
   - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/car-price-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/cara-price-dataset)
+
+- [Universities Ranking Analysis](https://github.com/mbsoroush/UniversitiesRankingAnalysis) .
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/universities-ranking-analysis) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/universities-information-dataset)
 ---
 
 <!-- ==================== TECHNICAL SKILLS ==================== -->
