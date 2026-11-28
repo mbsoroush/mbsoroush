@@ -47,7 +47,7 @@ technologies, and collaborating with others on impactful projects.
 
 ## 📂 Projects
 
-### 🤖 Large Language Models
+### 💬 Large Language Models
 
 - [Data Analysis Chat Assistant](https://github.com/mbsoroush/Data-Analysis-Chat-Assistant)
 
@@ -60,7 +60,7 @@ technologies, and collaborating with others on impactful projects.
 
 - [Apartment Management System](https://github.com/mbsoroush/ApartmentManagementSystem)
 
-### 💬 Natural Language Processing
+### 📖 Natural Language Processing
 
 - [Amazon Electronics Review Sentiment Analysis](https://github.com/mbsoroush/Amazon-Electronics-Review-Sentiment-Analysis) 
   - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/amazon-electronics-review-sentiment-analysis) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/amazon-electronics-reviews)
@@ -87,7 +87,7 @@ technologies, and collaborating with others on impactful projects.
   - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
 
 
-### 📈 Data Science & Machine Learning
+### 📈🤖 Data Science & Machine Learning
 
 - [Customer Segmentation](https://github.com/mbsoroush/CustomerSegmentation) .
   - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/customer-segmentation) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/customer-data)
@@ -104,7 +104,7 @@ technologies, and collaborating with others on impactful projects.
 
 <!-- ==================== TECHNICAL SKILLS ==================== -->
 
-## 🦾 Skills
+## 🧰 Skills
 
 ### 💻 Programming
 - Python, SQL, Java, C++, C, MATLAB
@@ -124,10 +124,10 @@ technologies, and collaborating with others on impactful projects.
 ### ⚙️ MLOps
 - Docker, GitHub Actions (CI/CD), Unit Testing, Cloud Deployment, Kubernetes, FastAPI, Airflow, MLflow
 
-### 🪄 LLMs
+### 💬 LLMs
 - Prompt Engineering, LLM API Integration, Structured Outputs, Retrieval-Augmented Generation (RAG), AI Agents, LangChain, LangGraph, Text-to-SQL, LLM Guardrails and Safety, LLM Reliability, LLM Observability, Human-in-the-Loop
 
-### 💬 NLP
+### 📖 NLP
 - Text Preprocessing and Classification, Transformer Fine-tuning, Parameter-Efficient Fine-Tuning (PEFT)
 
 ### 👁️ Computer Vision
