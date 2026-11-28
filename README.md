@@ -56,7 +56,7 @@ technologies, and collaborating with others on impactful projects.
 
 - [Olist Risk MLOps Platform](https://github.com/mbsoroush/Olist-Risk-MLOps-Platform)
 
-- [Airbnb MLOps Platform](https://github.com/mbsoroush/Airbnb-MLOps-Platform)
+- [Airbnb MLOps Stack](https://github.com/mbsoroush/Airbnb-MLOps-Stack)
 
 - [Apartment Management System](https://github.com/mbsoroush/ApartmentManagementSystem)
 
