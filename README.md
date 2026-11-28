@@ -60,11 +60,14 @@ technologies, and collaborating with others on impactful projects.
 
 - [Apartment Management System](https://github.com/mbsoroush/ApartmentManagementSystem)
 
-
 ### 💬 Natural Language Processing
+
+- [Amazon Electronics Review Sentiment Analysis](https://github.com/mbsoroush/Amazon-Electronics-Review-Sentiment-Analysis) 
+  - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/amazon-electronics-review-sentiment-analysis) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/amazon-electronics-reviews)
 
 - [Emotion Classification in Natural Language Text](https://github.com/mbsoroush/Emotion-Classification-in-Natural-Language-Text) 
   - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/emotion-classification-in-natural-language-text) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/emotions-in-persian-texts)
+
 
 ### 👁️ Computer Vision
 
@@ -74,6 +77,7 @@ technologies, and collaborating with others on impactful projects.
 - [Rice Variety Classification](https://github.com/mbsoroush/RiceVarietyClassification) .
   - [Kaggle Notebook 1](https://www.kaggle.com/code/mbsoroush/rice-classification-tensorflow-vs-pytorch) | [Kaggle Notebook 2](https://www.kaggle.com/code/mbsoroush/rice-classification-transfer-learning) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/rice-images-dataset)
 
+
 ### 🧠 Deep Learning
 
 - [Fraud Screening | Self-Organizing Maps](https://github.com/mbsoroush/FraudScreening) .
@@ -81,6 +85,7 @@ technologies, and collaborating with others on impactful projects.
 
 - [Finance Prediction](https://github.com/mbsoroush/FinancePrediction) .
   - [Kaggle Notebook](https://www.kaggle.com/code/mbsoroush/finance-prediction) | [Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
+
 
 ### 📈 Data Science & Machine Learning
 
